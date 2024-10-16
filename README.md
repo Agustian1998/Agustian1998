@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Agustian1998
+- 👋 Hi, I’m Agustian Yoga
 - 👀 I’m interested in Anime and Food
-- 🌱 I’m currently learning Java and Blender 3D
+- 🌱 I’m currently learning React and Blender 3D
 - 💞️ I’m looking to collaborate on any
 
 <!---
